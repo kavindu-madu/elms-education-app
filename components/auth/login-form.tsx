@@ -170,6 +170,7 @@ export function LoginForm() {
         {/* Footer */}
         <div className="text-center mt-8 text-sm text-gray-500">
           <p>© 2024 A/L Exam Notes & QA</p>
+          <p className="mt-1">Developed by Devil Madu, Sri Lanka</p>
           <p className="mt-1">Empowering GCE A/L Students Across Sri Lanka</p>
         </div>
       </div>
